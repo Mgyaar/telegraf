@@ -145,6 +145,7 @@ import (
 	_ "github.com/influxdata/telegraf/plugins/inputs/suricata"
 	_ "github.com/influxdata/telegraf/plugins/inputs/swap"
 	_ "github.com/influxdata/telegraf/plugins/inputs/synproxy"
+	_ "github.com/influxdata/telegraf/plugins/inputs/sysheartbeat"
 	_ "github.com/influxdata/telegraf/plugins/inputs/syslog"
 	_ "github.com/influxdata/telegraf/plugins/inputs/sysstat"
 	_ "github.com/influxdata/telegraf/plugins/inputs/system"
